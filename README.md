@@ -132,8 +132,8 @@ The backend runs at **`http://localhost:5000`**.
 ---
 
 ## 📝 Contributors
-- **Your Name** - Developer
-- **Teammate Name** - Developer
+- **Your Name** - Muzraimova Aiya
+- **Teammate Name** - Shanova Dilnaz
 
 ## 🏆 Future Improvements
 - Add payment gateway integration
@@ -147,6 +147,6 @@ This project is licensed under the MIT License.
 
 ---
 
-🚀 **This project meets all requirements for the Final Project (Advanced Databases - NoSQL).** Now, push your latest changes to GitHub! 🔥
+🔥
 
 
